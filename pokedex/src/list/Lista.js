@@ -34,6 +34,21 @@ export default function BaseL() {
     {id:23, name: 'Ekans', type1: 'Poison', type2: 'Poison', img: 'https://img.pokemondb.net/sprites/black-white/normal/ekans.png',},
     {id:24, name: 'Arbok', type1: 'Poison', type2: 'Poison', img: 'https://img.pokemondb.net/sprites/black-white/normal/arbok.png',},
     {id:25, name: 'Pikachu', type1: 'Electric', type2: 'Electric', img: 'https://img.pokemondb.net/sprites/black-white/normal/pikachu.png',},
+    {id:26, name: 'Raichu', type1: 'Electric', type2: 'Electric', img: 'https://img.pokemondb.net/sprites/black-white/normal/raichu.png',},
+    {id:27, name: 'Sandshrew', type1: 'Ground', type2: 'Ground', img: 'https://img.pokemondb.net/sprites/black-white/normal/sandshrew.png',},
+    {id:28, name: 'Sandslah', type1: 'Ground', type2: 'Ground', img: 'https://img.pokemondb.net/sprites/black-white/normal/sandslash.png',},
+    {id:29, name: 'Nidoran♀', type1: 'Poison', type2: 'Poison', img: 'https://img.pokemondb.net/sprites/black-white/normal/nidoran-f.png',},
+    {id:30, name: 'Nidorina', type1: 'Poison', type2: 'Poison', img: 'https://img.pokemondb.net/sprites/black-white/normal/nidorina.png',},
+    {id:31, name: 'Nidoqueen', type1: 'Poison', type2: 'Ground', img: 'https://img.pokemondb.net/sprites/black-white/normal/nidoqueen.png',},
+    {id:32, name: 'Nidoran♂', type1: 'Poison', type2: 'Poison', img: 'https://img.pokemondb.net/sprites/black-white/normal/nidoran-m.png',},
+    {id:33, name: 'Nidorino', type1: 'Poison', type2: 'Poison', img: 'https://img.pokemondb.net/sprites/black-white/normal/nidorino.png',},
+    {id:34, name: 'Nidoking', type1: 'Poison', type2: 'Ground', img: 'https://img.pokemondb.net/sprites/black-white/normal/nidoking.png',},
+    {id:35, name: 'Clefairy', type1: 'Fairy', type2: 'Fariy', img: 'https://img.pokemondb.net/sprites/black-white/normal/clefairy.png',},
+    {id:36, name: 'Clefable', type1: 'Fairy', type2: 'Fairy', img: 'https://img.pokemondb.net/sprites/black-white/normal/clefable.png',},
+    {id:37, name: 'Vulpix', type1: 'Fire', type2: 'Fire', img: 'https://img.pokemondb.net/sprites/black-white/normal/vulpix.png',},
+    {id:38, name: 'Ninetales', type1: 'Fire', type2: 'Fire', img: 'https://img.pokemondb.net/sprites/black-white/normal/ninetales.png',},
+    {id:39, name: 'Jigglypuff', type1: 'Normal', type2: 'Fariy', img: 'https://img.pokemondb.net/sprites/black-white/normal/jigglypuff.png',},
+    {id:40, name: 'Wigglytuff', type1: 'Normal', type2: 'Fairy', img: 'https://img.pokemondb.net/sprites/black-white/normal/wigglytuff.png',},
   ])
 
 
